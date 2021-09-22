@@ -4,7 +4,7 @@ In standard long-axis cine MR views the intensity fluctuations within the blood 
 ## 2. Network structure
 ![image text](https://github.com/xsunn/BloodFlowPrediction/blob/main/model/modelnetwork.png) 
 Network architecture
-## Visualization samples
+## 3. Visualization samples in 4CH view
 Case Num|Cine MRI|4D flow(ground truth)|DL (prediction)|Metrics
 ----|----|----|---- |---- 
 1| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/CINE/S118.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/GT/S118.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/DL/S118.gif)| EPE: Anlge: Acc: E/A ratio: 
@@ -17,3 +17,12 @@ Case Num|Cine MRI|4D flow(ground truth)|DL (prediction)|Metrics
 8| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/CINE/V22.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/GT/v22.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/DL/V22.gif) 
 9| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/CINE/S113.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/GT/S113.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/DL/S113.gif) 
 10| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/CINE/S125.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/GT/S125.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/DL/S125.gif) 
+11| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/CINE/V23.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/GT/V23.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/DL/V23.gif) 
+12| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/CINE/V16.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/GT/V16.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/DL/V16.gif) 
+13| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/CINE/V39.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/GT/V39.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/DL/V39.gif) 
+14| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/CINE/V29.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/GT/V29.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/DL/V29.gif) 
+15| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/CINE/V09.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/GT/V09.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/DL/V09.gif) 
+
+## 4. Visualization samples in 2CH view
+Case Num|Cine MRI|4D flow(ground truth)|DL (prediction)|Metrics
+----|----|----|---- |---- 
