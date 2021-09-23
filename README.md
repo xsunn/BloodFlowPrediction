@@ -7,8 +7,8 @@ Network architecture
 ## 3. Visualization samples in 4CH view
 Case Num|Cine MRI|4D flow(ground truth)|DL (prediction)|Metrics
 ----|----|----|---- |---- 
-1| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/CINE/S118.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/GT/S118.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/DL/S118.gif)| EPE: Anlge: Acc: E/A ratio: 
-2| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/CINE/S121.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/GT/S121.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/DL/S121.gif)  
+1| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/CINE/S58.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/GT/S58.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/DL/S58.gif)| EPE: Anlge: Acc: E/A ratio: 
+2| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/CINE/M60.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/GT/M60.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/DL/M60.gif)  
 3| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/CINE/v06.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/GT/v06.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/DL/v06.gif) 
 4| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/CINE/S60.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/GT/S60.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/DL/S60.gif) 
 5| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/CINE/M95.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/GT/M95.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/DL/M95.gif) 
