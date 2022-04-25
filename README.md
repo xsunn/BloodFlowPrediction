@@ -4,8 +4,8 @@ In standard long-axis cine MR views the intensity fluctuations within the blood 
 ## 2. Network structure
 ![image text](https://github.com/xsunn/BloodFlowPrediction/blob/main/model/modelnetwork.png) 
 ## 3. Visualization samples in 4CH view
-Case Num|Cine MRI|4D flow(gif)|DL (gif)|4D flow(movie)|DL (movie)
-----|----|----|---- |----|---- |
+Case Num|Cine MRI|4D flow(gif)|DL (gif)|
+----|----|----|---- |
 1| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/CINE/S58.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/GT/S58.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/DL/S58.gif)
 2| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/CINE/M60.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/GT/M60.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/DL/M60.gif)  
 3| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/CINE/v06.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/GT/v06.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/DL/v06.gif) 
@@ -25,7 +25,7 @@ Case Num|Cine MRI|4D flow(gif)|DL (gif)|4D flow(movie)|DL (movie)
 ## 4. Visualization samples in 2CH view
 Case Num|Cine MRI|4D flow(ground truth)|DL (prediction)|
 ----|----|----|---- |
-1| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/CINE/M60.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/GT/M60.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/DL/M60.gif)|
+1| ![video](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/CINE/M60.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/GT/M60.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/DL/M60.gif)|
 2| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/CINE/S117.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/GT/S117.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/DL/S117.gif)|
 3| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/CINE/S79.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/GT/S79.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/DL/S79.gif)|
 4| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/CINE/M78.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/GT/M78.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/DL/M78.gif)|
@@ -39,4 +39,4 @@ Case Num|Cine MRI|4D flow(ground truth)|DL (prediction)|
 12| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/CINE/V32.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/GT/V32.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/DL/V32.gif)|
 13| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/CINE/V30.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/GT/V30.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/DL/V30.gif)|
 14| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/CINE/M97.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/GT/M97.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/DL/M97.gif)|
-15| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/CINE/V20.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/GT/V20.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/DL/V20.gif)|
+15| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/CINE/V20.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/GT/V20.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/2CHDEMO/DL/V20.gif)| -->
