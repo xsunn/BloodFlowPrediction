@@ -6,7 +6,7 @@ More movie demos (.mpe) are located here. (https://github.com/xsunn/BloodFlowPre
 ![image text](https://github.com/xsunn/BloodFlowPrediction/blob/main/model/modelnetwork.png) 
 ## 3. Visualization samples in 4CH view
 Case Num|Cine MRI|4D flow(gif)|DL (gif)|E/A-GT|E/A-DL
-----|----|----|----|----|----|
+------------|------------|------------|------------|------------|------------|
 1| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/CINE/S58.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/GT/S58.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/DL/S58.gif)| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHEA/GT/S58.gif)| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHEA/DL/S58.gif)
 2| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/CINE/M60.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/GT/M60.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/DL/M60.gif)|![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHEA/GT/M60.gif)| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHEA/DL/M60.gif)  
 3| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/CINE/v06.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/GT/v06.gif) | ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHDEMO/DL/v06.gif) |![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHEA/GT/M60.gif)| ![image](https://github.com/xsunn/BloodFlowPrediction/blob/main/4CHEA/DL/M60.gif)
