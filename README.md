@@ -1,4 +1,5 @@
 # Intra-cardiac Blood Flow Pattern Prediction
+This is the code and demos for work "Deep learning-based prediction of intra-cardiac blood flow in long-axis cine magnetic resonance imaging" https://link.springer.com/article/10.1007/s10554-023-02804-2
 ## 1. Introduction
 In standard long-axis cine MR views the intensity fluctuations within the blood pool provide a visual clue about the global blood flow pattern within the cardiac cavities.      In this project, we proposed a deep learning based method for automated intra-cardiac blood flow velocity prediction from standard long-axis Cine MRI.
 More movie demos (.mp4) are located here. (https://github.com/xsunn/BloodFlowPrediction/tree/main/DEMO-mp4). 
